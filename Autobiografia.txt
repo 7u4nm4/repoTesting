@@ -1,7 +1,7 @@
-Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s. Ahora hemos pasado a la versión 2.
-Millions of developers and companies build, ship, and maintain their software on GitHub—the largest and most advanced development platform in the world para la versión 3.
-Con esta herramienta puede generar fácilmente textos simulados para trabajos de maquetación para la versión 4.
+Lo complementaremos progresivamente con nuevas funcionalidades. Sus comentarios y sugerencias son siempre bienvenidos.
 
+Desde aquí le animamos a enviarnos nuevos textos simulados.
 
+biografiamadre EJEMPLO version 5 2022-02-11 asdasdasdasd
 
 Simulando errores al momento de utilizar github -test 2-
